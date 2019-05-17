@@ -1,0 +1,9 @@
+
+    <!--<style name="CustomDialogFragment" parent="android:style/Theme.Dialog">-->
+        <!--<item name="android:windowBackground">@null</item>-->
+        <!--<item name="android:windowNoTitle">true</item>-->
+        <!--<item name="android:windowIsFloating">true</item>-->
+        <!--<item name="android:windowContentOverlay">@null</item>-->
+        <!--<item name="android:scrollHorizontally">true</item>-->
+        <!--<item name="android:windowAnimationStyle">@style/BottomSideAnim</item>-->
+    <!--</style>-->
