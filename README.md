@@ -18,6 +18,6 @@ allprojects {
 Step 2. Add the dependency
 ```
 dependencies {
-    implementation 'com.github.woodyhi:dialog-fragment-extend:v0.1.1'
+    implementation 'com.github.woodyhi:dialog-fragment-extend:0.1.0'
 }
 ```
